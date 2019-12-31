@@ -1,0 +1,18 @@
+.buttonbox {
+    background-color: grey;
+    color: black;
+    border: solid black 1px;
+    width: 100%;
+    padding: 10px;
+}
+
+.textbox {
+    background-color: white;
+    border: solid black 1px;
+    width: 100%;
+    padding: 10px;
+}
+
+.tableclass {
+    margin-left: 33%;
+}
